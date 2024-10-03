@@ -1,6 +1,10 @@
 const User = {
   firstName: "prince",
-  companyName:"Automax"
+  secondName:"Thomas",
+  job:"Developer",
+  location:"palarivattam",
+  companyName:"Automax",
+  ceo:"anand sir"
 };
 
 let Automax_Employee = ['amjad']
