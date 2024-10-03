@@ -1,5 +1,6 @@
 const User = {
   firstName: "prince",
   secondName:"Thomas",
-  job:"Developer"
+  job:"Developer",
+  location:"palarivattam"
 };
