@@ -1,4 +1,5 @@
 const User = {
   firstName: "prince",
-  secondName:"Thomas"
+  secondName:"Thomas",
+  job:"Developer"
 };
